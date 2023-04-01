@@ -16,5 +16,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahyer&show_icons=true&locale=en" alt="nahyer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahyer&" alt="nahyer" /></p>
+
 
