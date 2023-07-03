@@ -19,7 +19,15 @@
     background-position: 100% 50%;
   }
 </style>
-<div class="bg" style=" justify-content: center;">
+<div class="bg" style="  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: 300% 300%;
+  background-image: linear-gradient(-45deg, yellow 0%, yellow 25%, yellow 51%, #ff357f 100%);
+  -webkit-animation: AnimateBG 20s ease infinite;
+          animation: AnimateBG 20s ease infinite;">
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=nahyer&show_icons=true&locale=en&hide_border=true&theme=transparent" align="center"  alt="nahyer" /></p>
 
 <h3 align="left">EXPERTISE:</h3>
