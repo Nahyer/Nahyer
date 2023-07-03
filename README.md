@@ -19,7 +19,7 @@
     background-position: 100% 50%;
   }
 </style>
-<div class="bg">
+<div class="bg" style=" justify-content: center;">
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=nahyer&show_icons=true&locale=en&hide_border=true&theme=transparent" align="center"  alt="nahyer" /></p>
 
 <h3 align="left">EXPERTISE:</h3>
